@@ -1,0 +1,20 @@
+services:
+  client:
+    build: ./client
+    ports:
+      - "2999:2999"
+    volumes:
+      - ./client:/app
+      - /app/node_modules
+    depends_on:
+      - server
+    restart: always
+
+  server:
+    build: ./server
+    ports:
+      - "3000:3000"
+    volumes:
+      - ./server:/app
+      - /app/node_modules
+    restart: always
