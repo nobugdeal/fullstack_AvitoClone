@@ -1,0 +1,15 @@
+{
+    "extends": "./tsconfig.app.json",
+    "compilerOptions": {
+      "module": "CommonJS",
+      "target": "ESNext",
+      "jsx": "react-jsx",
+      "allowJs": true,
+      "esModuleInterop": true,
+      "skipLibCheck": true,
+      "forceConsistentCasingInFileNames": true,
+      "types": ["jest", "node", "msw"]
+    },
+    "include": ["src"]
+  }
+  
