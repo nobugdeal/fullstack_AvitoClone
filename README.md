@@ -32,8 +32,12 @@
    
 ```
 - Клиент работает на PORT=2999, сервер на PORT=3000.
-- С помощью docker compose: (docker compose build, затем docker compose up)
+- С помощью docker compose:
+```bash
 
+   docker-compose up -d --build
+   
+```
 # Технический стек
 ### Клиент
 - React, TypeScript – создание интерфейса, типизация
