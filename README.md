@@ -1,7 +1,7 @@
 # Тестовое задание для стажёра Frontend-направления (зима 2025)
 Техническое задание можно найти здесь – [Техническое задание](https://github.com/avito-tech/tech-internship/blob/main/Tech%20Internships/Frontend/Frontend-trainee-assignment-winter-2025/Frontend-trainee-assignment-winter-2025.md)
 
-# 1 Запуск проекта
+# 1. Запуск проекта
 1. Клонирование репозитория в IDE
 ```bash
    git clone https://github.com/temaaaar/Frontend-Trainee-Assignment.git
@@ -38,7 +38,7 @@
    docker-compose up -d --build
    
 ```
-# 2 Технический стек
+# 2. Технический стек
 ### Клиент
 - React, TypeScript – создание интерфейса, типизация
 - MaterialUI – UI-компоненты и стилизация
@@ -72,7 +72,7 @@
 - /register — регистрация пользователя
 - /login — авторизация пользователя
 
-### 3 В проекте реализованы
+### 3. В проекте реализованы
 - Размещение, редактирование и удаление объявлений
 - Отображение всех размещённых объявлений
 - Отображение всех объявлений, созданных авторизованным пользователем
