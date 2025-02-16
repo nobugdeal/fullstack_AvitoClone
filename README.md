@@ -1,5 +1,5 @@
 # Тестовое задание для стажёра Frontend-направления
-(зимняя волна 2025)
+# (зимняя волна 2025)
 Техническое задание можно найти здесь – [Техническое задание](https://github.com/avito-tech/tech-internship/blob/main/Tech%20Internships/Frontend/Frontend-trainee-assignment-winter-2025/Frontend-trainee-assignment-winter-2025.md)
 
 # Запуск проекта
