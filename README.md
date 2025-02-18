@@ -2,7 +2,7 @@
 Техническое задание можно найти здесь – [Техническое задание](https://github.com/avito-tech/tech-internship/blob/main/Tech%20Internships/Frontend/Frontend-trainee-assignment-winter-2025/Frontend-trainee-assignment-winter-2025.md)
 
 # Запуск проекта
-1. Клонирование репозитория в IDE
+Клонирование репозитория в IDE
 ```bash
    git clone https://github.com/temaaaar/Frontend-Trainee-Assignment.git
    cd Frontend-Trainee-Assignment
