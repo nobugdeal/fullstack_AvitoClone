@@ -16,27 +16,21 @@
 > Пароли пользователей хранятся в безопасном виде с использованием BcryptJS.
 
 ```bash
-
    cd  Server
    npm install
    npm start
-
 ```
 ## Клиент
 
 ```bash
-
    cd  Client
    npm install
    npm start
-   
 ```
 - Клиент работает на PORT=2999, сервер на PORT=3000.
-- С помощью docker compose:
+## Запуск с помощью docker compose
 ```bash
-
    docker-compose up -d --build
-   
 ```
 # Технический стек
 ### Клиент
