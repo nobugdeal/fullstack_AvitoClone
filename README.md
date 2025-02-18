@@ -5,6 +5,7 @@
 1. Клонирование репозитория в IDE
 ```bash
    git clone https://github.com/temaaaar/Frontend-Trainee-Assignment.git
+   cd Frontend-Trainee-Assignment
 ```
 ## Сервер
 - Файл "**.env.example**" предоставлен в репозитории (папка Server) в качестве шаблона. Перед запуском его необходимо переименовать в .env и заменить ```"<PASSWORD>"``` на реальный пароль ```"ruGpHbZ5Ga1G2NI9"``` от базы данных MongoDB.
