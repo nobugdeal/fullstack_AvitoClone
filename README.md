@@ -4,7 +4,7 @@
 # Запуск проекта
 Клонирование репозитория в IDE
 ```bash
-   git clone https://github.com/temaaaar/Frontend-Trainee-Assignment.git
+   git clone https://github.com/RealDealWolf/Frontend-Trainee-Assignment.git
    cd Frontend-Trainee-Assignment
 ```
 ## Сервер
