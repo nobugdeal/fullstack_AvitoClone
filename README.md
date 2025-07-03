@@ -1,4 +1,4 @@
-# Тестовое задание для стажёра Frontend-направления (зима 2025)
+# Тестовое задание Avito зима 2025 (AvitoClone)
 Техническое задание можно найти здесь – [Техническое задание](https://github.com/avito-tech/tech-internship/blob/main/Tech%20Internships/Frontend/Frontend-trainee-assignment-winter-2025/Frontend-trainee-assignment-winter-2025.md)
 
 # Запуск проекта
