@@ -1,19 +1,5 @@
-# Тестовое задание Avito зима 2025 (AvitoClone)
-Техническое задание можно найти здесь – [Техническое задание](https://github.com/avito-tech/tech-internship/blob/main/Tech%20Internships/Frontend/Frontend-trainee-assignment-winter-2025/Frontend-trainee-assignment-winter-2025.md)
-
 # Запуск проекта
-Клонирование репозитория в IDE
-```bash
-   git clone https://github.com/RealDealWolf/Frontend-Trainee-Assignment.git
-   cd Frontend-Trainee-Assignment
-```
 ## Сервер
-- Файл "**.env.example**" предоставлен в репозитории (папка Server) в качестве шаблона. Перед запуском его необходимо переименовать в .env и заменить ```"<PASSWORD>"``` на реальный пароль ```"ruGpHbZ5Ga1G2NI9"``` от базы данных MongoDB.
-
-## Пояснение
-> Данные объявлений и пользователей хранятся в базе данных MongoDB, доступ к которой осуществляется через Mongoose.
-Такое решение мне показалось более корректным ввиду наличия необходимости реализовать также и авторизацию, поэтому API было расширено для поддержки CRUD-операций с объявлениями и пользователями.
-> Пароли пользователей хранятся в безопасном виде с использованием BcryptJS.
 
 ```bash
    cd  Server
